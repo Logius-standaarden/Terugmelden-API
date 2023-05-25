@@ -11,6 +11,7 @@ Berichtenverkeer en inhoud
 - Inhoud van een melding is afhankelijk van de betreffende basisregistratie. Welke basisregistratie heeft informatie 
 nodig die specifiek is voor die basisregistratie?
 - Wat is het gewenste beveiligingsniveau voor de verschillende basisregistraties?
+- Kan het inhoudelijke deel in een XML structuur gedeeld worden? (die overeenkomt met de huidige structuur in DMKS?) Moeten we de inhoud zoveel mogelijk gelijk houden of is dit een gelegenheid om ook de codering van de inhoud te moderniseren?
 
 Semantische aspecten
 - Wat is de rol van semantische (linked) data voor inhoud? De basisregistraties die Kadaster beheert zijn beschikbaar als [_knowledge graph_](https://labs.kadaster.nl/thema/Knowledge_graph). Is het zinvol om vooruit te kijken naar terugmelden op alle basisregistraties als _knowledge graph_?
