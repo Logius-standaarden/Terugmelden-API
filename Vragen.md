@@ -1,9 +1,8 @@
 # Vragen aan het TO na bijeenkomst 23  mei 2023
 
 DMKS standaard is uitontwikkeld. Er is behoefte aan eenvoudiger standaard. Vragen voor het TO:
+- Wat zijn de overeenkomsten en verschillen tussen de standaarden die gebruikt worden in de verschillende terugmeld-toepassingen en zouden de voordelen efficiënter/effectiever in 1 standaard opgenomen kunnen worden?
 - Bieden APIs de gewenste vereenvoudiging? Ook bij toepassing van API koppelvlakken is authenticatie en authorisatie nodig. Zijn de use cases in de pilots niet simpeler gemaakt dan de praktijk kan worden?
-- Is een API specificatie per basisregistratie nodig?
-- Of een algemene specificatie met aanvullende specificatie per basisregistratie?
 
 Berichtenverkeer en inhoud
 - Digikoppeling definieert berichtenverkeer (en niet de inhoud). Is Digikoppeling REST API standaard voldoende voor de (niet-inhoudelijke) terugmelding?
