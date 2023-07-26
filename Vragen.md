@@ -1,4 +1,4 @@
-# Vragen aan het TO na bijeenkomst 23  mei 2023
+# Vragen aan het TO na bijeenkomst 24  mei 2023
 
 DMKS standaard is uitontwikkeld. Er is behoefte aan eenvoudiger standaard. Vragen voor het TO:
 - Wat zijn de overeenkomsten en verschillen tussen de standaarden die gebruikt worden in de verschillende terugmeld-toepassingen en zouden de voordelen efficiënter/effectiever in 1 standaard opgenomen kunnen worden?
